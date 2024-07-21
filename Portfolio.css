@@ -1,0 +1,47 @@
+header {
+    z-index: 999;
+}
+
+body {
+    background-image: url("LOSER CODE.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Name {
+    text-decoration: none;
+    color: #3a6cf4;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 1.8em;
+    font-family: "Cookie", cursive;
+}
+
+.Hobby {
+    text-decoration: none;
+    color: #3a6cf4;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 1.8em;
+    font-family: "Cookie", cursive;
+}
+
+h2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 10000;
+    font-size: 0.8em;
+    font-family: "Cookie", cursive;
+}
+
+h3 {
+    text-decoration: none;
+    color: #e0e0e0;
+    font-weight: 1000;
+    font-size: 0.8em;
+    font-family: "Cookie", cursive;
+}
+
+button {
+    display: flex;
+}
